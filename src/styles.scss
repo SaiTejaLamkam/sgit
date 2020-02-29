@@ -1,0 +1,72 @@
+/* You can add global styles to this file, and also import other style files */
+
+@import '~animate.css/animate.min';
+
+@font-face {
+    font-family: courierprime-rg;
+    src: url('assets/fonts/CourierPrime-Regular.ttf');
+  }
+  
+  @font-face {
+    font-family: courierprime-bd;
+    src: url('assets/fonts/CourierPrime-Bold.ttf');
+  }
+  
+  @font-face {
+    font-family: poppins-lt;
+    src: url('assets/fonts/Poppins-Light.ttf');
+  }
+  @font-face {
+    font-family: poppins-rg;
+    src: url('assets/fonts/Poppins-Regular.ttf');
+  }
+  @font-face {
+    font-family: poppins-md;
+    src: url('assets/fonts/Poppins-Medium.ttf');
+  }
+  
+  @font-face {
+    font-family: poppins-smbd;
+    src: url('assets/fonts/Poppins-SemiBold.ttf');
+  }
+  
+  @font-face {
+    font-family: poppins-bd;
+    src: url('assets/fonts/Poppins-Bold.ttf');
+  }
+  
+  @font-face {
+    font-family: rubik-lt;
+    src: url('assets/fonts/Rubik-Light.ttf');
+  }
+  
+  @font-face {
+    font-family: rubik-md;
+    src: url('assets/fonts/Rubik-Medium.ttf');
+  }
+
+  @font-face {
+    font-family: rubik-rg;
+    src: url('assets/fonts/Rubik-Regular.ttf');
+  }
+  @font-face {
+    font-family: rubik-bd;
+    src: url('assets/fonts/Rubik-Bold.ttf');
+  }
+
+  @font-face {
+    font-family: roboto-rg;
+    src: url('assets/fonts/RobotoMono-Regular.ttf');
+  }
+
+  @font-face {
+    font-family: roboto-bd;
+    src: url('assets/fonts/RobotoMono-Bold.ttf');
+  }
+
+
+html, body { height: 100%; }
+body { 
+    margin: 0; 
+    font-family: "poppins-rg", sans-serif !important; 
+}
