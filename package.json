@@ -23,7 +23,7 @@
     "@angular/router": "~9.0.0",
     "animate.css": "^3.7.2",
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "ng2-animate-on-scroll": "^1.2.0",
     "ngx-animate": "^1.0.1",
     "popper.js": "^1.16.1",
